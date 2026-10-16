@@ -1,5 +1,5 @@
-TIMESTAMP=2026-10-16T19:01:07+01:00
+TIMESTAMP=2026-10-16T19:58:07+01:00
 REGIME=SIDEWAYS
 CONFIDENCE=MEDIUM
-EXPIRES=2026-10-16T21:01:07+01:00
-REASON=failed_breakout_fade_new_red_brick_no_flips_friday_close_8pm
+EXPIRES=2026-10-16T21:58:07+01:00
+REASON=friday_pre_close_quiet_box_no_rewake
