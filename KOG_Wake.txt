@@ -1,5 +1,5 @@
-TIMESTAMP=2026-10-21T16:04:44+01:00
+TIMESTAMP=2026-10-21T17:01:05+01:00
 REGIME=SIDEWAYS
-CONFIDENCE=MEDIUM
-EXPIRES=2026-10-21T18:04:44+01:00
-REASON=backoff_from_4159_high_mid_range_vol_below_normal_no_us_news
+CONFIDENCE=LOW
+EXPIRES=2026-10-21T19:01:05+01:00
+REASON=third_test_4160_day_high_rejected_vol_below_normal_no_us_news
