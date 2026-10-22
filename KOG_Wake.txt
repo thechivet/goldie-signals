@@ -1,5 +1,5 @@
-TIMESTAMP=2026-10-22T19:04:13+01:00
+TIMESTAMP=2026-10-22T20:04:10+01:00
 REGIME=TREND_DOWN
 CONFIDENCE=LOW
-EXPIRES=2026-10-22T21:04:13+01:00
-REASON=breakdown_stalled_above_4049_low_range_narrowing_late_session
+EXPIRES=2026-10-22T22:04:10+01:00
+REASON=slow_grind_new_day_low_4046_red_brick_4050_normal_volume
